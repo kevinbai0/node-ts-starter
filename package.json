@@ -1,0 +1,19 @@
+{
+  "name": "node-ts-starter",
+  "version": "1.0.0",
+  "description": "My starter code for projects running with Node, Typescript, Babel, Webpack, ESLint, and Prettier",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinbai0/node-ts-starter.git"
+  },
+  "author": "Kevin Bai <kevin.c.bai0@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinbai0/node-ts-starter/issues"
+  },
+  "homepage": "https://github.com/kevinbai0/node-ts-starter#readme"
+}
