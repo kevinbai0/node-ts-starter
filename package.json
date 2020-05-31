@@ -40,5 +40,8 @@
     "bugs": {
         "url": "https://github.com/kevinbai0/node-ts-starter/issues"
     },
-    "homepage": "https://github.com/kevinbai0/node-ts-starter#readme"
+    "homepage": "https://github.com/kevinbai0/node-ts-starter#readme",
+    "dependencies": {
+        "@babel/plugin-transform-runtime": "^7.10.1"
+    }
 }
